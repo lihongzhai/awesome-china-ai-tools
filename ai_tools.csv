@@ -20,31 +20,15 @@ Latte,https://maxin-cn.github.io/latte_project/,"视频生成, 模型开发"," �
 LLM Pricing,https://llmpricecheck.com/,"行业大模型, 模型开发"," 比较主流大语言模型（LLM） API 接口的使用价格 "
 CogVideoX,https://github.com/THUDM/CogVideo,"视频生成, 模型开发"," 清华大学 KEG 实验室推出的，基于 CogVideo 的新一代视频生成模型 "
 可灵大模型,https://kling.kuaishou.com/,"视频生成, 模型开发"," 可灵大模型是快手开发的视频生成底层大模型 "
-ChatX,https://apps.apple.com/us/app/chatx-ai-chat-client/id6446304087,AI对话," 一款基于苹果系统的 AI 客户端（ios&mac），目前支持 ChatGPT3.5/4 "
-Helper,https://helper.im/#/,"AI 助手, AI对话"," 基于 ChatGPT 的客户端工具 "
-Stockai,https://stockai.trade/,AI对话," 基于 ChatGPT API 的选股工具 "
 知乎直答,https://zhida.zhihu.com/,行业大模型," 知乎直答是基于知海图大模型开发的产品 "
 Grok,https://x.com/i/grok,模型开发," Grok 是基于 Grok-n 语言模型的产品，具有最先进的推理能力。由推特（X）推出 "
 DeepSeek,https://www.deepseek.com/,模型开发," 知名私募巨头幻方量化旗下的人工智能公司深度求索（DeepSeek）自主研发的大语言模型开发的智能助手 "
-302.ai,https://302.ai/,AI竞技场,302.AI是一个汇集全球顶级品牌的AI超市，汇集全球各类顶尖AI模型，提供多种AI机器人，各种AI工具的使用和AI API接入
+302.ai,https://302.ai/,"AI竞技场, AI工具箱",提供工作效率、学术相关、信息处理、图片处理、音频相关、视频相关等AI工具
 Yeschat,https://www.yeschat.ai,AI搜索,"通过一站式访问高级AI：GPT-4o、DALL·E 3 以及200,000+ GPT，将您的效率提升10倍"
 CareGPT,https://github.com/WangRongsheng/CareGPT,"行业大模型, 模型开发"," CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展 "
 OpenAgents,https://github.com/xlang-ai/OpenAgents,模型开发框架," 来自香港大学、XLang实验室、Sea AI实验室和Salesforce的研究者联合打造了一款用于真实世界生产力工具的开源智能体框架 "
-NextChat,https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web,"AI对话, 代码辅助, 助手搭建","该项目是一个基于ChatGPT的开源项目，提供的功能和服务有：
-1. 一键免费部署私人ChatGPT环境。
-2. 支持使用多种模型（如GPT-3.5、GPT-4等）。
-3. 支持在多种浏览器上使用，包括桌面端和移动端浏览器。
-4. 聊天历史记录同步，可随时查看和继续之前的对话。
-5. 支持代码高亮，方便查看和编辑代码。
-6. 支持快捷指令，快速调用常用功能。
-7. 拥有多种主题，可根据喜好选择不同的界面风格。
-8. 支持自定义预设，方便快速发起特定类型的对话。
-9. 支持多语言，方便不同语言背景的用户使用。 
-10. 支持流式响应，更快看到回复内容。
-11. 支持代理配置，可在不同网络环境下使用。"
 智谱清言,https://chatglm.cn/,AI 助手,智谱清言是智谱AI推出的一款生成式AI助手，基于自主研发的大语言模型，支持多轮对话、内容创作、信息归纳等功能，广泛应用于智能客服、教育培训、企业办公等领域
 豆包桌面版,https://www.doubao.com/download/desktop,"AI 助手, AI搜索, AI翻译, 阅读辅助"," 字节跳动推出的 AI 助手，全面赋能日常生活应用，包括 AI 翻译，AI 搜索，AI 伴读等 "
-RoleD,https://roled.lingj.net/login,AI对话," 一款基于 ChatGPT 的角色聊天工具 "
 Realchar.ai,https://realchar.ai/,AI对话," 一款端到端开源人工智能伴侣，其中的特色功能是可以获取实时的背景信息 "
 Minimaxi,https://minimaxi.com/,"行业大模型, 模型开发, 助手搭建"," MiniMax 自主研发了不同模态的通用大模型，其中包括万亿参数的 MoE 文本大模型、语音大模型以及图像大模型。基于不同模态的通用大模型，MiniMax 推出生产力工具海螺AI、沉浸式AI内容社区星野等原生应用。MiniMax 开放平台为企业和开发者提供安全、灵活、可靠的 API 服务，助力快速搭建 AI 应用 "
 Manus,https://manus.im/,AI 助手," Manus 是一款通用型 AI 助手，能将想法转化为行动：不止于思考，更注重成果。Manus 擅长处理工作与生活中的各类任务，在你安心休息的同时，一切都能妥善完成 "
@@ -215,9 +199,7 @@ C-Eval,https://cevalbenchmark.com/index_zh.html,"模型开发, 行业大模型",
 - 评估模型：提供了13948道多项选择题，覆盖了52个学科和四个难度等级，可对大语言模型进行全面、严格的评估。
 - 展示评估结果：展示不同大语言模型在C-Eval基准测试中的表现，用户可以直观地比较不同模型的性能。
 - 提供评估工具和数据集：为研究人员和开发者提供进行模型评估所需的工具和数据集，支持他们在自己的环境中对模型进行评估。 "
-Huntsbot,https://www.huntsbot.com/topic/ai.html#,AI竞技场,聚合了大量 ChatGPT，OpenAI CLIP，OpenAI Codex，Stable Diffusion，DALL·E 2 和 GPT 等 AI 技术应用场景与产品案例
 留白记事,https://more-rizzai.com/,"行业大模型, AI搜索, 图像生成",一个能在微信对话框里同时召唤3个大模型的应用（目前改装了9款大模型）。内置了搜索、创建蓝牙、读取待办、画图等一系列工具供大模型调用；在APP内，本地优先、支持离线使用，并且改装全平台，让用户随时随地均可记录
-策引,https://www.myinvestpilot.com/pricing,AI 助手,基于 ChatGPT 的投资助手
 News mini malist,https://www.newsminimalist.com/,AI搜索,使用 AI 对新闻进行排名聚合
 JoinMC智能客服,https://panda.joinmc.cn/,行业大模型,JoinMC（Join Marketing Copilot）智能客服，专为跨境营销定制打造，采用1+2+4+10的模式，即1个大语言模型、2大核心逻辑、4种对接渠道、10大优质功能
 Kimi.ai,https://kimi.moonshot.cn/,AI搜索,快速的响应，简洁的功能，支持ai搜索和文档问答，ai搜索可以自动读取网址 。但是最近太多人用了。
@@ -375,4 +357,3 @@ pebblely,https://pebblely.com/,AI工具箱,Pebblely是一个AI图像生成平台
 link-ai,https://link-ai.tech/portal,助手搭建,Link-AI是一个企业级一站式AI智能体搭建与接入平台，提供零代码搭建具备企业私有知识和高级任务执行能力的Agent智能体，并支持一键接入主流IM和办公协同平台，实现对话式营销、智能客服与办公效率助手等业务场景。
 FlowUs,https://flowus.cn/ai,AI自动化,"智能化解决工作、学习、生活中的各项任务
 领略未来工作流的魅力"
-302.ai,https://302.ai/tools/,AI工具箱,提供工作效率、学术相关、信息处理、图片处理、音频相关、视频相关等AI工具
