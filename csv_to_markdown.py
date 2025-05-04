@@ -47,7 +47,7 @@ else:
         # 写入当前时间
         f.write(f"- 时间: {current_time}\n")
         # 写入当前时间
-        f.write(f"- 说明：本文档由脚本自动生成，请勿编辑\n\n\n\n")
+        f.write(f"- 说明: 本文档由脚本自动生成，请勿编辑\n\n\n\n")
 
         for tag, items in tag_groups.items():
             f.write(f"\n\n# {tag} 工具列表\n\n")

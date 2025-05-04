@@ -7,7 +7,7 @@
 3. **合规性标注**：检查工具备案状态，作为最基础安全保障。  
 
 ## 工具分类列表
-- [中国AI工具列表](ai_tools.md)，[CSV版](ai_tools.csv)
+- [中国优秀AI工具列表](ai_tools.md)，[CSV版](ai_tools.csv)
 - [中国AI Agent列表] ToDo
 - ...
 
